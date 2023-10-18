@@ -1,2 +1,4 @@
-assetfinder
-httprobe
+The initialization does require the downloading of certain tools:
+
+1.assetfinder
+2.httprobe
