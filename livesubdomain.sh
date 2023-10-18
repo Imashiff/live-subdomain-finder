@@ -50,5 +50,7 @@ echo -e "=======================================================================
 rm subs.txt
 rm live_subs.txt
 
+echo -e "${BWhite} Results are saved in sorted_subs.txt${NC}\n"
+
 echo -e "\n"
 echo -e "${BRed}||||||||||||||||||||||||||||||||||||${NC}${BGreen}THANK YOU${NC}${BRed}||||||||||||||||||||||||||||||||||||${NC}"
