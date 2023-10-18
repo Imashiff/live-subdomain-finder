@@ -31,8 +31,9 @@ echo -e "${BWhite}███████╗██╗   ██╗█████�
 
 greetings
 
-read -p "Enter your Target": dom
+echo -e "${BCyan}Enter your Domain here${NC}" && read -p " " dom
 echo -e "\n"
+
 echo -e "${BWhite} It may take a while depending on the number of subdomains. Sit back and relax :) ${NC}\n"
 
 assetfinder $dom > subs.txt
