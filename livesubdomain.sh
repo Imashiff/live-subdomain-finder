@@ -40,7 +40,7 @@ cat subs.txt| httprobe > live_subs.txt
 sort -u live_subs.txt > sorted_subs.txt
 
 echo -e "=================================================================================\n"
-echo -e "${BRed}~~~~~~~~~~~~~~~~~~~~~${NC}${BGreen}This Is Your Subdomains${NC} for ${BCyan}$dom${NC}${BRed}~~~~~~~~~~~~~~~~~~~~~~${NC}\n"
+echo -e "${BRed}~~~~~~~~~~~~~~~~~~~~~${NC}${BGreen}This is the Live Subdomains${NC} of ${BCyan}$dom${NC}${BRed}~~~~~~~~~~~~~~~~~~~~~~${NC}\n"
 echo -e "=================================================================================\n"
 
 cat sorted_subs.txt
