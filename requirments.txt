@@ -8,7 +8,7 @@ These are tools in linux, and have their own github repositories for setup, you 
     Running the Code :
 
         Move into the directory that has the code
-        chmod +x subdomainfnder.sh
-        ./subdomainfinder.sh
+        chmod +x livesubdomain.sh
+        ./livesubdomain.sh
 
 
