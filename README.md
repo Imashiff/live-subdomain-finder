@@ -3,6 +3,9 @@ SubdomainFinder is a tool for collecting subdomains of a domain. It increases th
 Usage:
 
 git clone https://github.com/Imashiff/live-subdomains-finder/
+
 cd live-subdomains-finder
+
 chmod +x livesubdomain.sh
+
 ./livesubdomain.sh
